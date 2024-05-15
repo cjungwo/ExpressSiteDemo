@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T12:28:50.271Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.15" etag="KXYRbA7RL_nS2AMbBjbG" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-15T12:36:11.915Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.15" etag="-Q3nT4kAA0BMG3nrdp2U" version="24.4.0" type="github">
   <diagram name="Page-1" id="5ee5GhNhsXrkeXTuqq0c">
-    <mxGraphModel dx="1731" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1002" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,11 +142,11 @@
         </mxCell>
         <mxCell id="3m-bpnkGo1VR5mwzQvz7-213" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3m-bpnkGo1VR5mwzQvz7-147">
           <mxGeometry x="-0.313" relative="1" as="geometry">
-            <mxPoint y="39" as="offset" />
+            <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3m-bpnkGo1VR5mwzQvz7-8" value="출고 취소" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="1085" width="100" height="40" as="geometry" />
+          <mxGeometry x="640" y="1035" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3m-bpnkGo1VR5mwzQvz7-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3m-bpnkGo1VR5mwzQvz7-12" target="PrTzhgNAHYE3CBzmLfnf-1">
           <mxGeometry relative="1" as="geometry" />
@@ -253,7 +253,7 @@
         </mxCell>
         <mxCell id="3m-bpnkGo1VR5mwzQvz7-212" value="&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3m-bpnkGo1VR5mwzQvz7-119">
           <mxGeometry x="0.2928" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-2" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3m-bpnkGo1VR5mwzQvz7-62" value="출고완료 리스트 보기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -322,7 +322,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3m-bpnkGo1VR5mwzQvz7-117" value="MBL 작성" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="1035" width="100" height="40" as="geometry" />
+          <mxGeometry x="640" y="1086" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3m-bpnkGo1VR5mwzQvz7-177" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="3m-bpnkGo1VR5mwzQvz7-120" target="3m-bpnkGo1VR5mwzQvz7-176">
           <mxGeometry relative="1" as="geometry" />
@@ -397,7 +397,7 @@
           <mxGeometry x="840" y="810" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3m-bpnkGo1VR5mwzQvz7-174" value="출고완료 -&amp;gt; 국제배송" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1035" width="120" height="40" as="geometry" />
+          <mxGeometry x="840" y="1086" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3m-bpnkGo1VR5mwzQvz7-175" value="통관대기 -&amp;gt; 창고도착" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1042" y="1245" width="120" height="40" as="geometry" />
